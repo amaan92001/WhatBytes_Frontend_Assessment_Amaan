@@ -57,7 +57,7 @@ Ensure you have **Node.js** installed on your machine to install and run the pro
    ```
 2. **Navigate to the project directory**:
    ```bash
-   cd whatbytes-dashboard-main
+   cd WhatBytes_Frontend_Assessment_Amaan
    ```
 3. **Install dependencies**:
    ```bash
