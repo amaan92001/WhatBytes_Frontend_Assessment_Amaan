@@ -76,8 +76,8 @@ Ensure you have **Node.js** installed on your machine to install and run the pro
 
 ## 📸 Screenshots
 
-![Dashboard Screenshot](path/to/screenshot.png)
-_Add a representative screenshot to showcase the dashboard interface._
+![Dashboard Screenshot](./src/assets/website_screenshot.png)
+
 
 ## 📈 Future Enhancements
 
