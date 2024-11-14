@@ -1,5 +1,5 @@
 
-# WhatBytes Dashboard - Intern Assessment
+# WhatBytes Dashboard - FrontEnd Assessment
 
 ![WhatBytes logo](https://media.licdn.com/dms/image/v2/D5616AQE0UuLncb3wQg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1723197825821?e=2147483647&v=beta&t=Ked8bmkxYENayspKlsysxXuHoLsDQoJcoeq26hySzUg)
 
