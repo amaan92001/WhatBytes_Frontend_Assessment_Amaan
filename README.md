@@ -1,4 +1,3 @@
----
 
 # WhatBytes Dashboard - Intern Assessment
 
