@@ -1,6 +1,9 @@
 
 # WhatBytes Dashboard - Intern Assessment
 
+![WhatBytes logo](https://media.licdn.com/dms/image/v2/D5616AQE0UuLncb3wQg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1723197825821?e=2147483647&v=beta&t=Ked8bmkxYENayspKlsysxXuHoLsDQoJcoeq26hySzUg)
+
+
 Welcome to the **WhatBytes Dashboard** project! This repository showcases a responsive, interactive dashboard interface designed for interns, featuring user management, skill tracking, and real-time insights.
 
 ## 🌟 Project Overview
@@ -94,6 +97,6 @@ Feel free to contribute! Fork this repository, create a branch, and submit pull 
 
 **Amaan Abdulnabi Patel**  
 📧 amaanpatel500@gmail.com  
-👔 [LinkedIn](https://www.linkedin.com/in/amaan-abdulnabi-patel)
+👔 [LinkedIn](https://www.linkedin.com/in/amaan-patel-a12b92275)
 
 ---
